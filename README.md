@@ -1,0 +1,2 @@
+# errantmind.github.io
+Blog

@@ -1,0 +1,15 @@
+# Setup
+url: "https://errantmind.github.io/"
+title:        Blog
+tagline:      Blog Tagline
+baseurl:      ""
+paginate:     1
+locale:       "en"
+remote_theme:  jekyll/minima
+
+
+# About/contact
+# author:
+#   name:       James Bates
+#   url:        https://errantmind.github.io/
+# email: jmbates@gmail.com

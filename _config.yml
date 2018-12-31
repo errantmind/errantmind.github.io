@@ -1,7 +1,7 @@
 # Setup
 url: "https://errantmind.github.io/"
-title:        Blog
-tagline:      Blog Tagline
+title:        "errantmind"
+tagline:      "Blog Tagline"
 baseurl:      ""
 paginate:     1
 locale:       "en"

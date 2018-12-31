@@ -5,7 +5,7 @@ tagline:      Blog Tagline
 baseurl:      ""
 paginate:     1
 locale:       "en"
-remote_theme:  jekyll/minima
+remote_theme:  errantmind/errant-jekyll
 
 
 # About/contact

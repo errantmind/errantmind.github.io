@@ -7,7 +7,7 @@ paginate:     1
 locale:       "en"
 remote_theme: errantmind/errant-jekyll
 permalink:    /:title
-banner:       /ouroboros.jpg
+banner:       /ouroboros.png
 
 # social links
 rss: rss

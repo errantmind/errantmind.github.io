@@ -9,6 +9,7 @@ remote_theme: errantmind/errant-jekyll
 permalink:    /:title
 banner:       /ouroboros.png
 
+
 # social links
 rss: rss
 # dribbble_username: jekyll

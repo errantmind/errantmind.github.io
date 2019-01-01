@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "longbrain: high performance butter coffee"
+title: "Longbrain: high performance butter coffee"
 categories: nutrition
 ---
 

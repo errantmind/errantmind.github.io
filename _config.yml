@@ -5,9 +5,9 @@ tagline:      "Articles and Essays"
 baseurl:      ""
 paginate:     1
 locale:       "en"
-remote_theme:  errantmind/errant-jekyll
-permalink: /:title
-
+remote_theme: errantmind/errant-jekyll
+permalink:    /:title
+banner:       /ouroboros.jpg
 
 # social links
 rss: rss

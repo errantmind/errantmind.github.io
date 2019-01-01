@@ -1,8 +1,8 @@
 # Setup
-url:          ""
+url:          "https://errantmind.github.io/"
 title:        "errantmind"
 tagline:      "Articles and Essays"
-baseurl:      "https://errantmind.github.io/"
+baseurl:      ""
 paginate:     1
 locale:       "en"
 remote_theme:  errantmind/errant-jekyll

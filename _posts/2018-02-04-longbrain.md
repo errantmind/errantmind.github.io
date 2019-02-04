@@ -4,9 +4,9 @@ title: "LongBrain: Nootropic Butter Coffee"
 categories: nootropics,nutrition,keto
 ---
 
-![finished-product](longbrain-assets/finished-product-min.jpg)
+![finished-product](/assets/longbrain/finished-product-min.jpg)
 
-**Overview**
+### Overview
 
 For many years I ate whatever I wanted, mostly on impulse.  Over time I noticed patterns: some foods left me fatigued, with brain fog, and/or feeling erratic while others did not.  This made me wonder, if some foods can negatively impact my cognition to that degree, then can others reliably *improve* it?
 
@@ -23,9 +23,7 @@ Specifically, I wanted a beverage with the following properties:
 
 The recipe below is the result of several iterations and adjustments. I liked it so much I decided to name it 'LongBrain' after the effects I observed: sustained mental clarity and energy for several hours. It also tastes really good. At the time of publishing this article I have prepared it at three+ days a week for several months with no noticeable negative side-effects
 
-
-
-**Ingredient Selection**
+### Ingredient Selection
 
 * Organic Coffee ([caffeine](https://en.wikipedia.org/wiki/Caffeine), stimulent): 
   * Coffee acts as a stimulant which improves cognitive function. 
@@ -42,9 +40,7 @@ The recipe below is the result of several iterations and adjustments. I liked it
 * Organic Unsweetened Cocoa Powder (flavanol)
   * Cocoa flavanol contains epicatechin + catechin which are anti-inflammatory and lower LDL cholesterol [[*](https://onlinelibrary.wiley.com/doi/full/10.1111/jch.12715)]
 
-
-
-**Brand Selection**
+### Brand Selection
 
 I personally use each brand below when making LongBrain. I do not make any money from referral links and will not take any form of compensation to promote a product. I buy most of the below ingredients on Amazon as they usually have the best prices
 
@@ -58,12 +54,12 @@ I personally use each brand below when making LongBrain. I do not make any money
   - [Scores very highly](https://labdoor.com/rankings/creatine) on [LabDoor](https://labdoor.com/about)
 * L-theanine: [Bulk Supplements](https://www.bulksupplements.com/l-theanine.html)
 * Organic, Unsweetened Cocoa Powder: [Pure Natural Miracles](https://www.purenaturalmiracles.com/products/pure-natural-miracles-cacao-powder-raw-and-organic)
-  * Much of the cocoa / chocolate available for purchase at retailers is alkalized using the dutch method.  The dutch method drastically reduces the presence of flavanols [[*](https://www.ncbi.nlm.nih.gov/pubmed/18710243)].  Do not buy Cocoa made using the *dutch method*. Unprocessed cocoa is the best source
+  * Much of the cocoa / chocolate available for purchase at retailers is alkalized using the dutch method.  The dutch method drastically reduces the presence of flavanols [*](https://www.ncbi.nlm.nih.gov/pubmed/18710243).  Do not buy Cocoa made using the *dutch method*. Unprocessed cocoa is the best source
   * According to the manufacturer (Pure Natural Miracles): "This raw cacao powder is stone ground and unprocessed and contains no added sugars, retaining its full bodied nutrition profile"
 
-**Ingredient Ratios: 1 Serving**
+### Ingredient Ratios: 1 Serving
 
-![ingredients](longbrain-assets/all-the-ingredients-min.jpg)
+![ingredients](/assets/longbrain/all-the-ingredients-min.jpg)
 
 * 12 to 16 ounces of hot coffee
 * 1 tablespoon of ghee or butter
@@ -74,13 +70,17 @@ I personally use each brand below when making LongBrain. I do not make any money
 * 1/8th teaspoon of L-theanine
 * 1 tablespoon cocoa powder
 
-**Instructions**
+### Instructions
 
-![ready-to-go](longbrain-assets/ready-to-go-min.jpg)
+![ready-to-go](/assets/longbrain/ready-to-go-min.jpg)
 
 1. Put ghee/butter, MCT, creatine, and L-theanine into a coffee pot, then make coffee. The method for making the coffee doesn't matter
 2. While the coffee is brewing, scoop the whey, collagen, and cocoa powder into a cup
 3. This last step is the hard part. Use an immersion blender to mix in the protein and cocoa. Ensure the protein mixes into the coffee as quickly as possible. If mixed too slowly, the protein will cook and leave *particulates* in the coffee. This happened to me the first few times until I got the technique down.  
    * See the gif below for my technique. In this coffee pot the key is to hold the immersion blender off-center and pour into the center
 
-![technique](longbrain-assets/technique.gif)
+![technique](/assets/longbrain/technique.gif)
+
+
+
+Enjoy the finish product

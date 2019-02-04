@@ -54,12 +54,14 @@ I personally use each brand below when making LongBrain. I do not make any money
   - [Scores very highly](https://labdoor.com/rankings/creatine) on [LabDoor](https://labdoor.com/about)
 * L-theanine: [Bulk Supplements](https://www.bulksupplements.com/l-theanine.html)
 * Organic, Unsweetened Cocoa Powder: [Pure Natural Miracles](https://www.purenaturalmiracles.com/products/pure-natural-miracles-cacao-powder-raw-and-organic)
-  * Much of the cocoa / chocolate available for purchase at retailers is alkalized using the dutch method.  The dutch method drastically reduces the presence of flavanols [*](https://www.ncbi.nlm.nih.gov/pubmed/18710243).  Do not buy Cocoa made using the *dutch method*. Unprocessed cocoa is the best source
+  * Much of the cocoa / chocolate available for purchase at retailers is alkalized using the dutch method.  The dutch method drastically reduces the presence of flavanols [[*](https://www.ncbi.nlm.nih.gov/pubmed/18710243)].  Do not buy Cocoa made using the *dutch method*. Unprocessed cocoa is the best source
   * According to the manufacturer (Pure Natural Miracles): "This raw cacao powder is stone ground and unprocessed and contains no added sugars, retaining its full bodied nutrition profile"
 
-### Ingredient Ratios: 1 Serving
+### Ingredient Amounts
 
 ![ingredients](/assets/longbrain/all-the-ingredients-min.jpg)
+
+1 Serving:
 
 * 12 to 16 ounces of hot coffee
 * 1 tablespoon of ghee or butter

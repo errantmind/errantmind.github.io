@@ -38,7 +38,7 @@ The recipe below is the result of several iterations and adjustments. I liked it
 * Creatine (improve cognitive function and workouts)
 * L-theanine
 * Organic Unsweetened Cocoa Powder (flavanol)
-  * Cocoa flavanol contains epicatechin + catechin which are anti-inflammatory and lower LDL cholesterol [[_](https://onlinelibrary.wiley.com/doi/full/10.1111/jch.12715)]
+  * Cocoa flavanol contains epicatechin + catechin which are anti-inflammatory and lower LDL cholesterol [[*](https://onlinelibrary.wiley.com/doi/full/10.1111/jch.12715)]
 
 ### Brand Selection
 
@@ -54,7 +54,7 @@ I personally use each brand below when making LongBrain. I do not make any money
   - [Scores very highly](https://labdoor.com/rankings/creatine) on [LabDoor](https://labdoor.com/about)
 * L-theanine: [Bulk Supplements](https://www.bulksupplements.com/l-theanine.html)
 * Organic, Unsweetened Cocoa Powder: [Pure Natural Miracles](https://www.purenaturalmiracles.com/products/pure-natural-miracles-cacao-powder-raw-and-organic)
-  * Much of the cocoa / chocolate available for purchase at retailers is alkalized using the dutch method.  The dutch method drastically reduces the presence of flavanols [[_](https://www.ncbi.nlm.nih.gov/pubmed/18710243)].  Do not buy Cocoa made using the *dutch method*. Unprocessed cocoa is the best source
+  * Much of the cocoa / chocolate available for purchase at retailers is alkalized using the dutch method.  The dutch method drastically reduces the presence of flavanols [[*](https://www.ncbi.nlm.nih.gov/pubmed/18710243)].  Do not buy Cocoa made using the _dutch method_. Unprocessed cocoa is the best source
   * According to the manufacturer (Pure Natural Miracles): "This raw cacao powder is stone ground and unprocessed and contains no added sugars, retaining its full bodied nutrition profile"
 
 ### Ingredient Amounts
@@ -85,4 +85,4 @@ I personally use each brand below when making LongBrain. I do not make any money
 
 
 
-Enjoy the finish product
+Enjoy the finished product

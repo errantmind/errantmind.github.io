@@ -21,7 +21,7 @@ Specifically, I wanted a beverage with the following properties:
 * Tastes good with absolutely no sweeteners
 * Personally vetted, highest quality ingredients
 
-The recipe below is the result of several iterations and adjustments. I liked it so much I decided to name it 'LongBrain' after the effects I observed: sustained mental clarity and energy for several hours. It also tastes really good. At the time of publishing this article I have prepared it at three+ days a week for several months with no noticeable negative side-effects
+The recipe below is the result of several iterations and adjustments. I liked it so much I decided to name it 'LongBrain' after the effects I observed: sustained mental clarity and energy for several hours. It also tastes really good. At the time of publishing this article I have prepared it three+ days a week for several months with no noticeable negative side-effects
 
 ### Ingredient Selection
 
@@ -57,7 +57,7 @@ I personally use each brand below when making LongBrain. I do not make any money
   * Much of the cocoa / chocolate available for purchase at retailers is alkalized using the dutch method.  The dutch method drastically reduces the presence of flavanols [[*](https://www.ncbi.nlm.nih.gov/pubmed/18710243)].  Do not buy Cocoa made using the _dutch method_. Unprocessed cocoa is the best source
   * According to the manufacturer (Pure Natural Miracles): "This raw cacao powder is stone ground and unprocessed and contains no added sugars, retaining its full bodied nutrition profile"
 
-### Ingredient Amounts
+### Recipe
 
 ![ingredients](/assets/longbrain/all-the-ingredients-min.jpg)
 

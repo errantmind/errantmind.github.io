@@ -84,7 +84,7 @@ I personally use each brand below when making LongBrain. I do not make any money
 
 
 <video muted autoplay loop> 
-	<source type="video/webm" src="/assets/longbrain/technique-min.webm" />
+	<source src="/assets/longbrain/technique-min.webm" />
     <img src="/assets/longbrain/technique-min.gif" />
 </video>
 

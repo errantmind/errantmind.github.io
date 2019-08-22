@@ -8,7 +8,7 @@ locale:       "en"
 remote_theme: errantmind/errant-jekyll
 permalink:    /:title
 banner:       /ouroboros.png
-#touched_6
+#touched_7
 
 # social links
 rss: rss

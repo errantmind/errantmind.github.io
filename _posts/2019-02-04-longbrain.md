@@ -81,8 +81,6 @@ I personally use each brand below when making LongBrain. I do not make any money
 3. This last step is the hard part. Use an immersion blender to mix in the protein and cocoa. Ensure the protein mixes into the coffee as quickly as possible. If mixed too slowly, the protein will cook and leave *particulates* in the coffee. This happened to me the first few times until I got the technique down.
    * See the gif below for my technique. In this coffee pot the key is to hold the immersion blender off-center and pour into the center
 
-![technique](/assets/longbrain/technique-min.gif)
-
 <video autoplay loop muted playsinline>
   <source src="/assets/longbrain/technique-min-video.mp4" type="video/mp4">
 </video>

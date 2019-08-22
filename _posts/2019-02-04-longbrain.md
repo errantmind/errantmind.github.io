@@ -10,7 +10,7 @@ categories: nootropics,nutrition,keto
 
 For many years I ate whatever I wanted, mostly on impulse.  Over time I noticed patterns: some foods left me fatigued, with brain fog, and/or feeling erratic while others did not.  This made me wonder, if some foods can negatively impact my cognition to that degree, then can others reliably *improve* it?
 
-After trying the butter coffee at [Picnik](https://picnikaustin.com/blogs/journal/butter-coffee) I was impressed by its flavor and nutrition profile. I decided to innovate on butter coffee recipes by adding protein and a few well-supported cognitive enhancers. 
+After trying the butter coffee at [Picnik](https://picnikaustin.com/blogs/journal/butter-coffee) I was impressed by its flavor and nutrition profile. I decided to innovate on butter coffee recipes by adding protein and a few well-supported cognitive enhancers.
 
 Specifically, I wanted a beverage with the following properties:
 
@@ -25,8 +25,8 @@ The recipe below is the result of several iterations and adjustments. I liked it
 
 ### Ingredient Selection
 
-* Organic Coffee ([caffeine](https://en.wikipedia.org/wiki/Caffeine), stimulant): 
-  * Coffee acts as a stimulant which improves cognitive function. 
+* Organic Coffee ([caffeine](https://en.wikipedia.org/wiki/Caffeine), stimulant):
+  * Coffee acts as a stimulant which improves cognitive function.
   * The strong flavor acts as a good base and overrides any bitterness from the other ingredients
 * Organic Ghee or Butter (fat, energy):
   * Fats balance the acidity of the coffee (taste only, not chemically)
@@ -78,11 +78,13 @@ I personally use each brand below when making LongBrain. I do not make any money
 
 1. Put ghee/butter, MCT, creatine, and L-theanine into a coffee pot, then make coffee. In the photo I'm using a pour-over method of making coffee but any method is fine
 2. While the coffee is brewing, scoop the whey, collagen, and cocoa powder into a cup
-3. This last step is the hard part. Use an immersion blender to mix in the protein and cocoa. Ensure the protein mixes into the coffee as quickly as possible. If mixed too slowly, the protein will cook and leave *particulates* in the coffee. This happened to me the first few times until I got the technique down.  
+3. This last step is the hard part. Use an immersion blender to mix in the protein and cocoa. Ensure the protein mixes into the coffee as quickly as possible. If mixed too slowly, the protein will cook and leave *particulates* in the coffee. This happened to me the first few times until I got the technique down.
    * See the gif below for my technique. In this coffee pot the key is to hold the immersion blender off-center and pour into the center
 
 ![technique](/assets/longbrain/technique-min.gif)
 
-
+<video autoplay loop muted playsinline>
+  <source src="/assets/longbrain/technique-min-video.mp4" type="video/mp4">
+</video>
 
 Enjoy the finished product

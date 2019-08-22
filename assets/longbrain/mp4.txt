@@ -1,0 +1,4 @@
+mp4
+
+ffmpeg -i technique.gif -c:v libx264 -preset veryslow -movflags faststart -an -crf 24 -pix_fmt yuv420p -tune fastdecode output.mp4
+

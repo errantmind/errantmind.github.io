@@ -45,9 +45,7 @@ I personally use each brand below when making LongBrain. I do not make any money
 
 * Unsweetened Cocoa Powder contains flavanol. Cocoa flavanol contains epicatechin + catechin which are anti-inflammatory and lower LDL cholesterol [[*](https://onlinelibrary.wiley.com/doi/full/10.1111/jch.12715)]
 
-  Much of the cocoa / chocolate available for purchase at retailers is alkalized using the Dutch Method.  The Dutch Method drastically reduces the presence of flavanols [[*](https://www.ncbi.nlm.nih.gov/pubmed/18710243)].  Do not buy Cocoa made using the _Dutch Method_. Unprocessed cocoa is the best source
-
-  [Pure Natural Miracles](https://www.purenaturalmiracles.com/products/pure-natural-miracles-cacao-powder-raw-and-organic). According to the manufacturer: "This raw cacao powder is stone ground and unprocessed and contains no added sugars, retaining its full bodied nutrition profile"
+  Much of the cocoa / chocolate available for purchase at retailers is alkalized using the Dutch Method.  The Dutch Method drastically reduces the presence of flavanols [[*](https://www.ncbi.nlm.nih.gov/pubmed/18710243)].  Do not buy Cocoa made using the _Dutch Method_. Unprocessed cocoa is the best source. [Pure Natural Miracles](https://www.purenaturalmiracles.com/products/pure-natural-miracles-cacao-powder-raw-and-organic) passes this test according to the manufacturer: "This raw cacao powder is stone ground and unprocessed and contains no added sugars, retaining its full bodied nutrition profile." I haven't found any consumer testing of cocoa powders which verify high flavanols and low heavy metal content
 
 ### Recipe
 

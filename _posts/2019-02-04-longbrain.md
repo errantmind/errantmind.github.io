@@ -31,29 +31,17 @@ I personally use each brand below when making LongBrain. I do not make any money
 
   This recipe doesn't need premium coffee because most of the nuance in flavor is lost when combined with the other ingredients. I use an organic Columbian blend from my local supermarket
 
-* Ghee (or Butter) is a good source of fat. Fats are the primary source of energy on a ketogenic diet. Fats also reduce the acidic flavor of the coffee
+* Ghee (or Butter) is a good source of fat. Fats are the primary source of energy on a ketogenic diet. Fats also reduce the acidic flavor of the coffee. [OMGhee](https://omghee.com/) and [Ancient Organics](https://www.ancientorganics.com/) are both good choices. I prefer the taste of OMGhee but sometimes they are back-ordered
 
-  [OMGhee](https://omghee.com/) and [Ancient Organics](https://www.ancientorganics.com/) are both good choices. I prefer the taste of OMGhee but sometimes they are back-ordered
+* MCT Oil is a type of fat which is easily processed by the liver, yielding energy faster than ghee and butter. [Pure C8 MCT Oil](https://shop.ketosource.co/products/pure-c8-mct-oil) is a particular formulation of MCT which contains only caprylic acid.  Caprylic acid is [preferable](https://ketosource.co/caprylic-acid-c8/) over other types of MCT
 
-* MCT Oil is a type of fat which is easily processed by the liver, yielding energy faster than ghee and butter
+* Whey is a protein which can be supplemented for muscle maintenance and growth. [Now Foods](https://www.nowfoods.com/sports-nutrition/whey-protein-isolate-unflavored-powder) makes an **unflavored** protein isolate which scores highly on LabDoor
 
-  [Pure C8 MCT Oil](https://shop.ketosource.co/products/pure-c8-mct-oil) is a particular formulation of MCT which contains only caprylic acid.  Caprylic acid is [preferable](https://ketosource.co/caprylic-acid-c8/) over other types of MCT
+* Collagen is also a protein which can be supplemented for joint maintenance and skin elasticity. [Further Foods](https://shop.furtherfood.com/products/collagen-peptides-protein-powder) makes **unflavored** collagen peptides
 
-* Whey is a protein which can be supplemented for muscle maintenance and growth
+* Creatine improves cognitive function and workout performance. [Bulk Supplements](https://www.bulksupplements.com/creatine-monohydrate.html) scores highly on Labdoor
 
-  [Now Foods](https://www.nowfoods.com/sports-nutrition/whey-protein-isolate-unflavored-powder) makes an **unflavored** protein isolate which scores highly on LabDoor
-
-* Collagen is also a protein which can be supplemented for joint maintenance and skin elasticity
-
-  [Further Foods](https://shop.furtherfood.com/products/collagen-peptides-protein-powder) makes **unflavored** collagen peptides
-
-* Creatine improves cognitive function and workout performance
-
-  [Bulk Supplements](https://www.bulksupplements.com/creatine-monohydrate.html) scores highly on Labdoor
-
-* L-theanine reduces anxiety and somewhat smooths out the jitteryness of the caffeine
-
-  [Bulk Supplements](https://www.bulksupplements.com/l-theanine.html)
+* L-theanine reduces anxiety and somewhat smooths out the jitteryness of the caffeine. [Bulk Supplements](https://www.bulksupplements.com/l-theanine.html)
 
 * Unsweetened Cocoa Powder contains flavanol. Cocoa flavanol contains epicatechin + catechin which are anti-inflammatory and lower LDL cholesterol [[*](https://onlinelibrary.wiley.com/doi/full/10.1111/jch.12715)]
 

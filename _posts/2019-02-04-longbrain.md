@@ -35,9 +35,9 @@ This recipe doesn't need premium coffee because most of the nuance in flavor is 
 
 **MCT Oil** is a type of fat which is easily processed by the liver, yielding energy faster than ghee and butter. [Pure C8 MCT Oil](https://shop.ketosource.co/products/pure-c8-mct-oil) is a particular formulation of MCT which contains only caprylic acid which is [preferable](https://ketosource.co/caprylic-acid-c8/) over other types of MCT
 
-**Whey Protein** can be supplemented for muscle maintenance and growth. [Now Foods](https://www.nowfoods.com/sports-nutrition/whey-protein-isolate-unflavored-powder) makes an unflavored protein isolate which scores highly on LabDoor
+**Whey Protein** can be supplemented for muscle maintenance and growth. [Now Foods](https://www.nowfoods.com/sports-nutrition/whey-protein-isolate-unflavored-powder) makes an *unflavored* protein isolate which scores highly on LabDoor
 
-**Collagen Peptides** are a protein can be supplemented for joint maintenance and skin elasticity. [Further Foods](https://shop.furtherfood.com/products/collagen-peptides-protein-powder) makes unflavored collagen peptides
+**Collagen Peptides** are a protein can be supplemented for joint maintenance and skin elasticity. [Further Foods](https://shop.furtherfood.com/products/collagen-peptides-protein-powder) makes *unflavored* collagen peptides
 
 **Creatine** improves cognitive function and workout performance. [Bulk Supplements](https://www.bulksupplements.com/creatine-monohydrate.html) scores highly on Labdoor
 

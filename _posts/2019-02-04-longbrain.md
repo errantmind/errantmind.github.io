@@ -61,9 +61,7 @@ I personally use each brand below when making LongBrain. I do not make any money
 
   [Pure Natural Miracles](https://www.purenaturalmiracles.com/products/pure-natural-miracles-cacao-powder-raw-and-organic). According to the manufacturer: "This raw cacao powder is stone ground and unprocessed and contains no added sugars, retaining its full bodied nutrition profile"
 
-### Brand Selection
-
-Recipe
+### Recipe
 
 ![ingredients](/assets/longbrain/all-the-ingredients-min.jpg)
 

@@ -8,7 +8,7 @@ categories: nootropics,nutrition,keto
 
 ### Overview
 
-For many years I ate whatever I wanted, mostly on impulse.  Over time I noticed patterns: some foods left me fatigued, with brain fog, and/or feeling erratic while others did not.  This made me wonder, if some foods can negatively impact my cognition to that degree, then can others reliably *improve* it?
+For many years I ate whatever I wanted, mostly on impulse. Over time I noticed patterns: some foods left me fatigued, with brain fog, and/or feeling erratic while others did not. This made me wonder, if some foods can negatively impact my cognition to that degree, then can others reliably *improve* it?
 
 After trying the butter coffee at [Picnik](https://picnikaustin.com/blogs/journal/butter-coffee) I was impressed by its flavor and nutrition profile. I decided to innovate on butter coffee recipes by adding protein and a few well-supported cognitive enhancers.
 
@@ -25,28 +25,23 @@ The recipe below is the result of several iterations and adjustments. I liked it
 
 ### Ingredient Selection
 
-* Organic Coffee ([caffeine](https://en.wikipedia.org/wiki/Caffeine), stimulant):
-  * Coffee acts as a stimulant which improves cognitive function.
-  * The strong flavor acts as a good base and overrides any bitterness from the other ingredients
-* Organic Ghee or Butter (fat, energy):
-  * Fats balance the acidity of the coffee (taste only, not chemically)
-* MCT Oil (fat, energy)
-  - Medium-chain triglycerides, processed directly in the liver to produce ketones, a useful energy source
-  - There are different types of MCT Oil. There is [evidence](https://ketosource.co/caprylic-acid-c8/) to suggest a particular kind (C8) is preferred
+* Coffee contains caffeine which stimulates cognitive function. The strong flavor is also a good base flavor which overrides bitterness from the other ingredients
+* Ghee (or Butter) is a good source of fat. Fats are the primary source of energy on a ketogenic diet. Fats also reduce the acidic flavor of the coffee
+* MCT Oil is a type of fat which is easily processed by the liver (into ketones), yielding energy faster than ghee and butter
 * Whey (protein, muscle maintenance and growth)
 * Collagen (protein, joint maintenance)
 * Creatine (improve cognitive function and workouts)
 * L-theanine
-* Organic Unsweetened Cocoa Powder (flavanol)
+* Unsweetened Cocoa Powder (flavanol)
   * Cocoa flavanol contains epicatechin + catechin which are anti-inflammatory and lower LDL cholesterol [[*](https://onlinelibrary.wiley.com/doi/full/10.1111/jch.12715)]
 
 ### Brand Selection
 
 I personally use each brand below when making LongBrain. I do not make any money from referral links and will not take any form of compensation to promote a product. I buy most of the below ingredients on Amazon as they usually have the best prices
 
-* Organic Coffee: I appreciate high-quality coffee and have had great experiences with [Huck](https://huckleberryroasters.com/), [Amaya](https://www.amayaroasting.com/) and [Boomtown](https://www.boomtowncoffee.com/) roasters. That said, a lot of the nuance in flavor is lost (when combined with other ingredients) so I also routinely use an organic Columbian blend from my local HEB (supermarket)
+* Organic Coffee: I appreciate high-quality coffee and have had great experiences with [Huck](https://huckleberryroasters.com/), [Amaya](https://www.amayaroasting.com/) and [Boomtown](https://www.boomtowncoffee.com/) roasters. That said, a lot of the nuance in flavor is lost (when combined with other ingredients) so I also routinely use an organic Columbian blend from my local grocer
 * Organic Ghee or Butter: [OMGhee](https://omghee.com/) and [Ancient Organics](https://www.ancientorganics.com/) are both really good. OMGhee tastes a little better but orders typically have a wait-time
-* MCT Oil: [Sports Research MCT](https://sportsresearch.com/products/premium-mct-oil-32oz). This is cheap and entry level given its mix of MCTs (C8 and C10). I'll be testing a few pure C8 products soon (the ones listed [here](https://ketosource.co/caprylic-acid-c8/))
+* MCT Oil: [Sports Research MCT](https://sportsresearch.com/products/premium-mct-oil-32oz). This is cheap and entry level given its mix of MCTs (C8 and C10). I'll be testing a few pure C8 products soon (the ones listed [here](https://ketosource.co/caprylic-acid-c8/)). MCT stands for medium-chain triglycerides and is not an exact description of a product. [Evidence](https://ketosource.co/caprylic-acid-c8/) suggests caprylic acid (C8) is preferable over other types of MCT. This can be verified on the nutrition label
 * Unflavored Whey Isolate: [Now Foods](https://www.nowfoods.com/sports-nutrition/whey-protein-isolate-unflavored-powder)
   * [Scores highly](https://labdoor.com/rankings/protein) on [LabDoor](https://labdoor.com/about)
 * Unflavored Collagen Peptides: [Further Foods](https://shop.furtherfood.com/products/collagen-peptides-protein-powder)

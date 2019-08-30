@@ -23,29 +23,29 @@ The recipe below is the result of several iterations and adjustments. I liked it
 
 ### Ingredient Selection
 
-Before purchasing any ingredients I try to identify quality. I primarily use two websites for product research: Labdoor and ConsumerLab. They are both independent companies primarily focused on consumer safety. They test and rank products and supplements to ensure they contain what they claim
+Before purchasing any ingredients I try to identify quality. I primarily use two websites for product research: Labdoor and ConsumerLab. They are both independent companies primarily focused on consumer safety. They test and rank products and supplements to ensure they contain what they claim.
 
-I personally use each brand below when making LongBrain. I do not make any money from referral links and will not take any form of compensation to promote a product. I buy most of the wherever the price is the lowest, usually Amazon
+I personally use each brand below when making LongBrain. I do not make any money from referral links and will not take any form of compensation to promote a product. I buy most of the wherever the price is the lowest, usually Amazon.
 
-**Coffee** contains caffeine which stimulates cognitive function. The strong flavor also overrides bitterness from some of the other ingredients
+**Coffee** contains caffeine which stimulates cognitive function. The strong flavor also overrides bitterness from some of the other ingredients.
 
-This recipe doesn't need premium coffee because most of the nuance in flavor is lost when combined with the other ingredients. I use an organic Columbian blend from my local supermarket
+This recipe doesn't need premium coffee because most of the nuance in flavor is lost when combined with the other ingredients. I use an organic Columbian blend from my local supermarket.
 
-**Ghee** (or Butter) is a good source of fat. Fats are the primary source of energy on a ketogenic diet. Fats also reduce the acidic flavor of the coffee. [OMGhee](https://omghee.com/) and [Ancient Organics](https://www.ancientorganics.com/) are both good choices. I prefer the taste of OMGhee but sometimes they are back-ordered
+**Ghee** (or Butter) is a good source of fat. Fats are the primary source of energy on a ketogenic diet. Fats also reduce the acidic flavor of the coffee. [OMGhee](https://omghee.com/) and [Ancient Organics](https://www.ancientorganics.com/) are both good choices. I prefer the taste of OMGhee but sometimes they are back-ordered.
 
-**MCT Oil** is a type of fat which is easily processed by the liver, yielding energy faster than ghee and butter. [Pure C8 MCT Oil](https://shop.ketosource.co/products/pure-c8-mct-oil) is a particular formulation of MCT which contains only caprylic acid which is [preferable](https://ketosource.co/caprylic-acid-c8/) over other types of MCT
+**MCT Oil** is a type of fat which is easily processed by the liver, yielding energy faster than ghee and butter. [Pure C8 MCT Oil](https://shop.ketosource.co/products/pure-c8-mct-oil) is a particular formulation of MCT which contains only caprylic acid which is [preferable](https://ketosource.co/caprylic-acid-c8/) over other types of MCT.
 
-**Whey Protein** can be supplemented for muscle maintenance and growth. [Now Foods](https://www.nowfoods.com/sports-nutrition/whey-protein-isolate-unflavored-powder) makes an *unflavored* protein isolate which scores highly on LabDoor
+**Whey Protein** can be supplemented for muscle maintenance and growth. [Now Foods](https://www.nowfoods.com/sports-nutrition/whey-protein-isolate-unflavored-powder) makes an *unflavored* protein isolate which scores highly on LabDoor.
 
-**Collagen Peptides** are a protein can be supplemented for joint maintenance and skin elasticity. [Further Foods](https://shop.furtherfood.com/products/collagen-peptides-protein-powder) makes *unflavored* collagen peptides
+**Collagen Peptides** are a protein can be supplemented for joint maintenance and skin elasticity. [Further Foods](https://shop.furtherfood.com/products/collagen-peptides-protein-powder) makes *unflavored* collagen peptides.
 
-**Creatine** improves cognitive function and workout performance. [Bulk Supplements](https://www.bulksupplements.com/creatine-monohydrate.html) scores highly on Labdoor
+**Creatine** improves cognitive function and workout performance. [Bulk Supplements](https://www.bulksupplements.com/creatine-monohydrate.html) scores highly on Labdoor.
 
-**L-theanine** reduces anxiety and somewhat smooths out the jitteryness of the caffeine. [Bulk Supplements](https://www.bulksupplements.com/l-theanine.html)
+**L-theanine** reduces anxiety and somewhat smooths out the jitteryness of the caffeine. [Bulk Supplements](https://www.bulksupplements.com/l-theanine.html).
 
-**Unsweetened Cocoa Powder** contains flavanol. Cocoa flavanol contains epicatechin + catechin which are anti-inflammatory and lower LDL cholesterol [[*](https://onlinelibrary.wiley.com/doi/full/10.1111/jch.12715)]
+**Unsweetened Cocoa Powder** contains flavanol. Cocoa flavanol contains epicatechin + catechin which are anti-inflammatory and lower LDL cholesterol [[*](https://onlinelibrary.wiley.com/doi/full/10.1111/jch.12715)].
 
-Much of the cocoa / chocolate available for purchase at retail are alkalized using the Dutch Method.  The Dutch Method drastically reduces the presence of flavanols [[*](https://www.ncbi.nlm.nih.gov/pubmed/18710243)].  Do not buy Cocoa made using the _Dutch Method_. Unprocessed cocoa is the best source. [Pure Natural Miracles](https://www.purenaturalmiracles.com/products/pure-natural-miracles-cacao-powder-raw-and-organic) passes this test according to the manufacturer: "This raw cacao powder is stone ground and unprocessed and contains no added sugars, retaining its full bodied nutrition profile." I haven't found any consumer testing of cocoa powders which verify high flavanols and low heavy metal content
+Much of the cocoa / chocolate available for purchase at retail are alkalized using the Dutch Method.  The Dutch Method drastically reduces the presence of flavanols [[*](https://www.ncbi.nlm.nih.gov/pubmed/18710243)].  Do not buy Cocoa made using the _Dutch Method_. Unprocessed cocoa is the best source. [Pure Natural Miracles](https://www.purenaturalmiracles.com/products/pure-natural-miracles-cacao-powder-raw-and-organic) passes this test according to the manufacturer: "This raw cacao powder is stone ground and unprocessed and contains no added sugars, retaining its full bodied nutrition profile." I haven't found any consumer testing of cocoa powders which verify high flavanols and low heavy metal content.
 
 ### Recipe
 
